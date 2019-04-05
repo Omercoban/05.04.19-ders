@@ -1,0 +1,10 @@
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\bin\Debug\sonhaftaa.exe.config
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\bin\Debug\sonhaftaa.exe
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\bin\Debug\sonhaftaa.pdb
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.Form1.resources
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.exe
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\sonhaftaa\sonhaftaa\obj\Debug\sonhaftaa.pdb
